@@ -1,0 +1,111 @@
+body{
+    background: url("../img/carroussel/img-academie.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#nav-top {
+    padding: 0;
+    margin-bottom: 5rem;
+    background-color: #099AD8;
+}
+
+#nav-top img{
+    height: 10vh;
+    width: 10vw;
+}
+
+#nav-top a{
+    margin-right: 3rem;
+}
+
+.contenu{
+    margin: 2rem;
+}
+
+#head{
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+    margin-bottom: 3rem;
+}
+
+#actu-utilisateur{
+    background-color: #000;
+    color: #fff;
+}
+
+.slide{
+    padding: .5rem;
+    background-color: #159D40;
+    display: flex;
+    justify-content: space-between;
+}
+
+#btn-espacePerso{
+    margin-left: 2rem;
+    font-size: 2rem;
+    color: #fff;
+}
+
+#btn-faireDemande{
+    padding-top: .5rem;
+    text-align: center;
+    margin-right: 5rem;
+    background-color: #159D40;
+    border: .1rem solid #fff;
+    color: #fff;
+
+}
+
+#contenu-espacePerso{
+    height: 30rem;
+    background-color: #fff;
+    /* border: .3rem solid #000; */
+    color: #000;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#btn-archive{
+    color: #fff;
+}
+
+#archive{
+    height: 10rem;
+    background-color: #fff;
+    /* border: .3rem solid #000; */
+    color: #000;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#footer{
+    background-color: #159D40;
+    color: white;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#footer img{
+    border-radius: 90px;
+    height: 5rem;
+    width: 10rem;
+}
+
+ul pre{
+    text-decoration: none;
+    margin-right: 5rem;
+    text-align: left;
+}
+
+#copy{
+    color: #fff;
+}
+
+/* #copy a{
+    text-decoration: none;
+} */

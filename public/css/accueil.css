@@ -1,0 +1,175 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* padding: 2rem; */
+    overflow-x: hidden;
+}
+
+#menu{
+    padding-left: 85%;
+}
+
+.menu{
+    height: 4vh;
+    color: #fff;
+    margin-right: 1rem;
+}
+
+#head{
+    width: 100vw;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo{
+    margin-top: 6rem;
+    width: 40vw;
+}
+
+#caroussel{
+    margin-top: 3rem;
+    width: 40vw;
+}
+
+#caroussel img{
+    margin: 0;
+    height: 40vh;
+    /* border: 2rem solid #6093AC; */
+    /* border-radius: 5em 0 0 5em; */
+}
+
+
+#caroussel h5{
+    font-size: 3em;
+    
+}
+
+#contenu{
+    margin: 5rem 3rem;
+    background: url("../img/carroussel/img-book\ sm.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+}
+
+#contenu hr{
+    border-color: #159D40;
+}
+
+.mvt-maitres{
+    margin: 2rem;
+}
+
+#quisommesnous h3{
+    text-align: left;
+    color: #fff;
+}
+
+#quisommesnous{
+    text-align: center;
+    font-size: 1.7rem;
+    color: #fff;
+}
+
+.titre-menu{
+    font-size: 1.5em;
+    color: #099AD8;
+    text-align: center;
+}
+
+/* #card{
+    background-image: url("../img/carroussel/lion.jpg");
+} */
+
+#card-sinformer{
+    text-align: center;
+    border-color: #159D40;
+}
+
+#style-btn-sinformer{
+    color: #159D40;
+    font-size: 1.5rem;
+    border-radius: 25px;
+    border-color: #159D40;
+}
+
+#card-sinscrire{
+    margin-top: 3rem;
+    text-align: center;
+    border-color: #159D40;
+}
+
+#opt-txt-reglementaire{
+    text-align: center;
+}
+
+#info-inscription{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    /* border: .1em solid #159D40; */
+    padding: 2em; 
+    color: #099AD8;
+}
+
+#btn-inscription{
+    background-color: #159D40;
+    color: #fff;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 15px;
+    align-items: center;
+}
+
+.actu{
+    background-color: rgba(0, 0, 0, .3);
+    text-align: center;
+    border-left: .15em solid #159D40;
+}
+
+/* #logo-partenaire{
+    background-image: url("../img/logo-partenaires/logologo.png");
+    background-color: #fff !important;
+} */
+
+#footer{
+    background-color: #159D40;
+    color: white;
+    padding: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* .partenaire{
+    padding: 2rem 0;
+    border: .3rem dashed #B0F2B6;
+    border-radius: 25rem;
+    margin: 3rem 3rem;
+} */
+
+/* figcaption{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #6093AC;
+} */
+
+ /* figure img{
+     display: inline;
+     width: 15%;
+     margin-left: 1rem;
+     border-radius: 50rem;
+     justify-content: space-evenly;
+} */
+
+#footer img{
+    border-radius: 90px;
+    height: 5rem;
+    width: 10rem;
+}
+
+ul pre{
+    text-decoration: none;
+    margin-right: 5rem;
+    text-align: left;
+}
